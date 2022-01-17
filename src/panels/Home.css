@@ -1,0 +1,21 @@
+.menu-button {
+    cursor: pointer;
+}
+.menu-button-title {
+    display: table;
+    height: 98px;
+}
+.menu-button-title > div {
+    font-size: x-large;
+    color: white;
+    display: table-cell;
+    vertical-align: middle;
+}
+#learn {
+    background: linear-gradient(210deg, transparent, rgba(35, 45, 201, 0.85) 70%), url("https://sun9-15.userapi.com/impg/HaMRNgQrYIN0jD_IwG5-WCM9-rnu3kfqsFQpEQ/NLEIMYZBhjU.jpg?quality=96&sign=744ca5f26bcc37f1a0a42634a30577b9&size=1280x720&type=album");
+    background-size: cover;
+}
+#tests {
+    background: linear-gradient(210deg, transparent, rgba(188, 9, 201, 0.85) 70%), url("https://sun9-59.userapi.com/impg/bHZ2116w2aAMPh8tzLgQU397H3B5KxEvi8CJVQ/9IPI2DmcObU.jpg?quality=96&sign=ecb271d2556c59e9a2e043ca4b6a4ce1&size=1920x1080&type=album");
+    background-size: cover;
+}
